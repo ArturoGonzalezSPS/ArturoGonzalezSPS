@@ -5,7 +5,7 @@
 ## Software Developer and IT Consultant at SPS 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-argonzalezr-blue)](https://www.linkedin.com/in/argonzalezr/)
-[![](https://img.shields.io/badge/Mail-agonzalez@spsolutions.com.mx)](mailto:agonzalez@spsolutions.com.mx)
+[![](https://img.shields.io/badge/Mail-agonzalez@spsolutions.com.mx.com-red)](mailto:agonzalez@spsolutions.com.mx)
 
 
 
